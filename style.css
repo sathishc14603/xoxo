@@ -60,7 +60,7 @@ h4{
         transform:scale(1.5);
     }
 }
-@media (min-width:320px) and (max-width:481px) {
+/* @media (min-width:320px) and (max-width:481px) {
     * {
 
         font-family: 'poppins', sans-serif;
@@ -149,3 +149,4 @@ h4{
                                 font-size: inherit;
                             }
                         }   
+ */
